@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "无尽的星海",
+    "home_page_url": "https://blog.selume.top/",
+    "feed_url": "https://blog.selume.top/feed.json",
+    "description": "到底什么是爱？",
+    "icon": "https://blog.selume.top/saber.png",
+    "author": {
+        "name": "星海",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://blog.selume.top/posts/hello-valaxy",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://blog.selume.top/posts/hello-valaxy\" target=\"_blank\">https://blog.selume.top/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://blog.selume.top/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "星海",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

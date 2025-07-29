@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>无尽的星海</title>
+        <link>https://blog.selume.top/</link>
+        <description>到底什么是爱？</description>
+        <lastBuildDate>Tue, 29 Jul 2025 09:24:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>无尽的星海</title>
+            <url>https://blog.selume.top/saber.png</url>
+            <link>https://blog.selume.top/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © 星海</copyright>
+        <atom:link href="https://blog.selume.top/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://blog.selume.top/posts/hello-valaxy</link>
+            <guid isPermaLink="false">https://blog.selume.top/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://blog.selume.top/posts/hello-valaxy" target="_blank">https://blog.selume.top/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (星海)</author>
+        </item>
+    </channel>
+</rss>
